@@ -4,7 +4,7 @@ I'm **NoobCoder13th**.
 
 I do **app development**, I'm currently exploring **cloud computing**, and my future plans include diving deeper into **IT in general**.
 
-My approach is pretty simple: if there's something I want to build or learn, **I go for it**. I don't really care which area it falls under.I don't really care which area it falls under. If something catches my interest, I'll learn it, build it, and figure out the rest along the way.
+My approach is pretty simple: if there's something I want to build or learn, **I go for it**. I don't really care which area it falls under. If something catches my interest, I'll learn it, build it, and figure out the rest along the way.
 
 ## 🛠️ Tech Stack
 
